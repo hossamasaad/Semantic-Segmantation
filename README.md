@@ -13,20 +13,25 @@ The dataset is split up as follows:
 
 ## Models
 
-### 1. Fully Convolutional Netwrok (FCN-8)
+### 1. Fully Convolutional Network (FCN-8)
 #### Model Architecture
 ![FCN-8](images/FCN-8.jpg)
 #### Results
 ![FCN-result1](images/fcn_result1.png)
 ![FCN-result2](images/fcn_result2.png)
 
-
 ### 2. U-net
+#### Model Architecture
+![Unet](images/unet.png)
+#### Results
+![Unet-result1](images/unet_result1.png)
+![Unet-result2](images/unet_result2.png)
+
 
 ## Resources
+[1. Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211v1)
+[2. U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597v1)
 
-[1. Fully Convolutional Networks for Semantic Segmentation
-](https://arxiv.org/abs/1605.06211v1)
 
 ## Tools
 
