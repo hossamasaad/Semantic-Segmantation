@@ -27,11 +27,25 @@ The dataset is split up as follows:
 ![Unet-result1](images/unet_result1.png)
 ![Unet-result2](images/unet_result2.png)
 
+### 3. SegNet
+#### Model Architecture
+![SegNet](images/segnet.png)
+
+### 4. ShelfNet
+#### Model Architecture
+![shelfnet](images/shelfnet.png)
+
+#### Results
+![shelf-result1](images/shelfnet_result2.png)
+![shelf-result2](images/shelfnet_result2.png)
+
+
 
 ## Resources
-[1. Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211v1)
-[2. U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597v1)
-
+- [1. Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211v1)
+- [2. U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597v1)
+- [3. SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561v3)
+- [4. ShelfNet for Fast Semantic Segmentation](https://arxiv.org/abs/1811.11254v6)
 
 ## Tools
 
